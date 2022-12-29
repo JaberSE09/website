@@ -1,0 +1,20 @@
+{
+  "name": "teck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaberSE09/website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaberSE09/website/issues"
+  },
+  "homepage": "https://github.com/JaberSE09/website#readme"
+}
